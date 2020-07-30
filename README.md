@@ -3,7 +3,7 @@ Added flutter_map and used a marker to display the live location.
 
 ## Getting Started
 
-![demo](https://media.giphy.com/media/VgkaFxrM0TUIFU21La/giphy.gif)
+![demo](https://media.giphy.com/media/iibNCJOWzpFKJFzPPH/giphy.gif)
 
 
 

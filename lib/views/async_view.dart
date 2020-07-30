@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:flutter/material.dart';
 import 'package:location_service/datamodels/user_location.dart';
 import 'package:provider/provider.dart';
@@ -68,11 +66,3 @@ class _ResultsPageState extends State<ResultsPage> {
     );
   }
 }
-
-//Center(
-//child: Text(
-//'Lat: ${snapshot.data[0]} Long: ${snapshot.data[1]}',
-//style: TextStyle(
-//color: Colors.red, fontSize: 18, fontWeight: FontWeight.bold),
-//)
-//)

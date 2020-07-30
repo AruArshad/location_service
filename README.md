@@ -4,4 +4,4 @@ Location Service App done using Asynchronous Calls from Location Provider and us
 
 ## Getting Started
 
-![demo](https://media.giphy.com/media/W5HxBMYBpqyyqeYaKL/giphy.gif)
+![demo](https://media.giphy.com/media/Yldi09mYkxVBCvDdkD/giphy.gif)
